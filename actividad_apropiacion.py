@@ -75,7 +75,7 @@ print(valor_producto)
 print(restante)
 print(saldo_restante)
 """
-
+"""
 #lavar ropa
 
 lav="vas a usar lavadora?"
@@ -99,5 +99,37 @@ print(tie)
 print(tiempo)
 print(ropa)
 print(cantida_ropa)
-print
+print(producto)
+print(tipo_producto)
+print(agua)
+print(cantidad_agua)
+"""
+
+#hablar por telefono
+"""
+metodo="por que medio haras la llamada?"
+metodo_llamada="celular"
+
+saldo="tienes saldo?"
+saldo_telefono=True
+
+disponible="esta disponible el contacto?"
+disponibilidad="disponible"
+
+numero="cual es el numero del contacto?"
+numero_contacto=3005658472
+
+print(metodo)
+print(metodo_llamada)
+print(saldo)
+print(saldo_telefono)
+print(disponible)
+print(disponibilidad)
+print(numero)
+print(numero_contacto)
+"""
+#
+
+
+
 
