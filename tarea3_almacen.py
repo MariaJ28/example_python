@@ -38,5 +38,3 @@ print(nuevo_precio)
 print(aumento_jeans)
 print(precio_nuevo)
 print(disminucion_zapatos)
-
-#hola
