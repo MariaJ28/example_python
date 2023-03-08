@@ -21,3 +21,14 @@ if saldo >= total_compra:
     print("tu compra sera entregada por un domiciliario con un total de: ",total_compra)
 else:
     print("no te alcanza para llevarlo en domicilio ya que tu presupuesto es de: ",saldo)
+
+sum=0
+num=5
+a=0
+while(a<num):
+    sum=sum*a
+    a=a+1
+    print(sum)
+
+
+if edad<15
